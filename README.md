@@ -4,7 +4,7 @@
  Abra o prompt de comando e cole o código abaixo:
  
  ```
- git clone git@github.com:fagnercsouza/curso-angular-testes-unitarios.git
+ git clone https://github.com/fagnercsouza/curso-angular-testes-unitarios.git
 ```
 
 Entre na pasta do projeto
